@@ -16,11 +16,6 @@ Web Developer who quickly adapts to new environments. Passionate about learning 
 
 ---
 
-## 🧪 Sample Paragraph
-
-This is a sample paragraph for testing purposes. You can update this section with your personal introduction, project experience, or anything else you want to share.
-
----
 
 ## 📫 Contact
 
