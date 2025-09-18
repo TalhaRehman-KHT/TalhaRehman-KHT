@@ -1,4 +1,3 @@
-# README.md
 # 👋 Hello, I'm Talha Rehman
 
 Web Developer who quickly adapts to new environments. Passionate about learning and building modern web applications using latest technologies.
@@ -16,9 +15,9 @@ Web Developer who quickly adapts to new environments. Passionate about learning 
 
 ---
 
-
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/talha-rehman-460014218)
+- [Portfolio](https://talha-five.vercel.app)
 - 📧 Email 1: talhakhank51@gmail.com  
 - 📧 Email 2: talharehmankht@gmail.com
