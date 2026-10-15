@@ -1,4 +1,3 @@
-html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0057B8,100:00D4FF&height=230&section=header&text=Talha%20Rehman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Researcher&descSize=15&descAlignY=57" width="100%" alt="Talha Rehman animated banner"/>
@@ -60,6 +59,10 @@ My goal is to bridge practical AI engineering with academic research and pursue 
 
 | Research Area | Areas of Interest |
 |---|---|
+| Computer Vision for Healthcare | AI-based medical image analysis, visual pattern recognition, and healthcare applications |
+| Medical Image Analysis | Deep learning for analyzing medical images, image classification, segmentation, and abnormality detection |
+| AI in Healthcare | Computer vision and machine learning techniques for healthcare support and clinical decision-support research |
+| Multimodal Medical AI | Exploring the integration of medical images and textual information using multimodal AI models |
 | Artificial Intelligence | Intelligent systems, reasoning, and AI applications |
 | Large Language Models | LLM integration, prompting, and domain-specific applications |
 | Multi-Agent Systems | Agent coordination, tool use, and workflow orchestration |
@@ -69,6 +72,10 @@ My goal is to bridge practical AI engineering with academic research and pursue 
 | Deep Learning | Neural networks and PyTorch-based experimentation |
 | LLM Evaluation | Benchmarking, response quality, retrieval quality, and model comparison |
 | AI for Healthcare | Pharmaceutical information systems and responsible AI applications |
+
+- 🏥 Exploring Computer Vision and Deep Learning for medical image analysis, healthcare applications, and AI-assisted diagnostic research.
+**Research interests:** Artificial Intelligence · Large Language Models · Multi-Agent Systems · Agentic RAG · Machine Learning · Computer Vision · Medical Image Analysis · AI for Healthcare
+
 
 ---
 
