@@ -1,4 +1,4 @@
-```html
+html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0057B8,100:00D4FF&height=230&section=header&text=Talha%20Rehman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Researcher&descSize=15&descAlignY=57" width="100%" alt="Talha Rehman animated banner"/>
@@ -367,4 +367,3 @@ I'm interested in connecting with AI researchers, developers, and graduate stude
 **Building useful software. Exploring intelligent systems. Learning through experimentation.**
 
 </div>
-```
