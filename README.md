@@ -1,28 +1,18 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0057B8,100:00D4FF&height=230&section=header&text=Talha%20Rehman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Researcher&descSize=15&descAlignY=57" width="100%" alt="Talha Rehman animated banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0057B8,100:00D4FF&height=230&section=header&text=Talha%20Rehman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Aspiring%20AI%20Researcher&descSize=15&descAlignY=57" width="100%" alt="Talha Rehman banner"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Multi-Agent+Systems+%7C+LangGraph+%7C+LangChain;Agentic+RAG+%7C+LLMs+%7C+Model+Evaluation;Python+%7C+Machine+Learning+%7C+AI+Engineering;Exploring+Research+Opportunities+in+AI" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Computer+Vision+for+Healthcare;Multi-Agent+Systems+%7C+LangGraph;Agentic+RAG+%7C+LLMs+%7C+Python;Learning+Through+Building+and+Experimentation" alt="Introduction"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/TalhaRehman-KHT">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://huggingface.co/TalhaRehman-KHT">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</a>
-<a href="https://www.linkedin.com/in/talha-rehman-460014218">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://talha-five.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:talharehmankht@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/TalhaRehman-KHT"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://huggingface.co/TalhaRehman-KHT"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+<a href="https://www.linkedin.com/in/talha-rehman-460014218"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://talha-five.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:talharehmankht@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -32,90 +22,109 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hi, I'm **Talha Rehman**, a Computer Science professional with a background in full-stack software engineering and a growing focus on Artificial Intelligence, Generative AI, and LLM-powered systems.
+Hi, I'm Talha Rehman, a Computer Science graduate from Kohat University of Science and Technology (KUST), Pakistan.
 
-I build software applications and AI workflows that combine language models, knowledge retrieval, automation, and structured agent orchestration. My current interests include **Multi-Agent Systems, Agentic RAG, Retrieval-Augmented Generation, LLM Evaluation, and Machine Learning**.
+My background is in full-stack development, and I've gradually become more interested in building applications that use AI to solve practical problems. I enjoy working across the stack, from developing APIs and database integrations to connecting language models with real application workflows.
 
-My goal is to bridge practical AI engineering with academic research and pursue graduate studies in Computer Science or Artificial Intelligence.
+One of my main projects is a pharmaceutical information system that explores the use of multi-agent workflows for medicine-related queries. This project has encouraged me to learn more about LangChain, LangGraph, retrieval-augmented generation, and the challenges of producing useful AI responses.
 
-- 🤖 Building LLM-powered applications and multi-agent workflows.
-- 🔎 Exploring Agentic RAG, embeddings, semantic search, and vector databases.
-- 🧠 Working with local and hosted LLMs through Ollama and model-provider APIs.
-- 🧪 Interested in model evaluation, benchmarking, and improving AI response quality.
-- ⚙️ Developing workflow automation using n8n and API integrations.
-- 🎓 Preparing for research-oriented MS opportunities in Computer Science and AI.
+I'm particularly interested in the intersection of **Artificial Intelligence and Healthcare**. I want to explore how computer vision, deep learning, and intelligent agent systems can contribute to healthcare-related applications.
 
-<div align="center">
+Outside these interests, I work with web technologies and automation tools to build and connect software systems.
 
-**Research interests:** Artificial Intelligence · LLMs · Multi-Agent Systems · Agentic RAG · Machine Learning · AI Evaluation
-
-</div>
+- Building AI-powered applications using Python and LLMs.
+- Developing multi-agent workflows with LangGraph and LangChain.
+- Exploring Agentic RAG, embeddings, and vector search.
+- Interested in computer vision and medical image analysis.
+- Working with REST APIs, n8n automation, and full-stack applications.
+- Preparing for research-oriented graduate studies in AI and Computer Science.
 
 ---
 
 ## 🔬 Research Interests
 
-| Research Area | Areas of Interest |
-|---|---|
-| Computer Vision for Healthcare | AI-based medical image analysis, visual pattern recognition, and healthcare applications |
-| Medical Image Analysis | Deep learning for analyzing medical images, image classification, segmentation, and abnormality detection |
-| AI in Healthcare | Computer vision and machine learning techniques for healthcare support and clinical decision-support research |
-| Multimodal Medical AI | Exploring the integration of medical images and textual information using multimodal AI models |
-| Artificial Intelligence | Intelligent systems, reasoning, and AI applications |
-| Large Language Models | LLM integration, prompting, and domain-specific applications |
-| Multi-Agent Systems | Agent coordination, tool use, and workflow orchestration |
-| Agentic RAG | Retrieval, reasoning, iterative search, and context refinement |
-| Retrieval-Augmented Generation | Embeddings, vector databases, and grounded responses |
-| Machine Learning | Model experimentation, evaluation, and performance analysis |
-| Deep Learning | Neural networks and PyTorch-based experimentation |
-| LLM Evaluation | Benchmarking, response quality, retrieval quality, and model comparison |
-| AI for Healthcare | Pharmaceutical information systems and responsible AI applications |
+My primary research direction is **AI for Healthcare**, with an interest in computer vision, retrieval-based AI systems, and multi-agent architectures. I'm interested in practical research problems where AI methods can be implemented, tested, and evaluated rather than judged only by example outputs.
 
-- 🏥 Exploring Computer Vision and Deep Learning for medical image analysis, healthcare applications, and AI-assisted diagnostic research.
-**Research interests:** Artificial Intelligence · Large Language Models · Multi-Agent Systems · Agentic RAG · Machine Learning · Computer Vision · Medical Image Analysis · AI for Healthcare
+### 1. Computer Vision for Healthcare
 
+I'm interested in how computer vision and deep learning can help analyze medical images and identify visual patterns that may be useful in healthcare research.
+
+Areas I'd like to explore include:
+
+- Medical image classification and segmentation.
+- Deep learning for detecting patterns in medical images.
+- Image-based feature extraction and representation learning.
+- Evaluation of computer vision models on medical datasets.
+- Responsible use of AI in medical image analysis.
+
+### 2. Agentic RAG for Healthcare Information
+
+I want to explore how retrieval-augmented generation can provide more relevant, context-aware answers using trusted healthcare and pharmaceutical information sources.
+
+Areas of interest include:
+
+- Retrieval from medical and pharmaceutical documents.
+- Embeddings, semantic search, and vector databases.
+- Agent-driven retrieval and query refinement.
+- Improving retrieval relevance and answer grounding.
+- Evaluating factual consistency and limitations in generated responses.
+
+### 3. Multi-Agent Systems for Healthcare
+
+My pharmaceutical AI project has motivated me to explore how multiple agents can coordinate tasks and use tools to handle complex information requests.
+
+Possible research directions include:
+
+- Coordinating specialized agents for information retrieval and response generation.
+- Using LangGraph to manage stateful workflows.
+- Tool use and task decomposition in healthcare information systems.
+- Evaluating agent accuracy, reliability, and failure cases.
+- Combining retrieval systems with multi-agent workflows.
+
+### Broader Interests
+
+Deep Learning · Machine Learning · Large Language Models · Medical Image Analysis · Multimodal AI · AI Evaluation
+
+These are research interests and directions I want to investigate further, rather than claims of completed medical or clinical research.
 
 ---
 
 ## 💊 Featured Project: Multi-Agent Pharmaceutical AI
 
-<div align="center">
+This project focuses on medicine-related information and explores how a structured AI workflow can help process user queries.
 
-<img src="https://img.shields.io/badge/AI-Multi--Agent%20Systems-6f42c1?style=for-the-badge" alt="Multi-agent systems"/>
-<img src="https://img.shields.io/badge/RAG-Agentic%20RAG-0057B8?style=for-the-badge" alt="Agentic RAG"/>
-<img src="https://img.shields.io/badge/Domain-Pharmaceutical%20AI-2ea44f?style=for-the-badge" alt="Pharmaceutical AI"/>
+The pharmaceutical domain presents interesting challenges: retrieving relevant information, maintaining context, and avoiding unsupported answers. I use this project to connect software engineering with concepts in LLM applications and multi-agent systems.
 
-</div>
+**Technologies and concepts**
 
-An AI project focused on providing users with relevant medicine-related information through a structured, agent-based workflow.
+- **Python:** Backend development and AI workflow logic.
+- **LangChain:** Integrating language models, prompts, and tools.
+- **LangGraph:** Organizing stateful workflows and agent execution.
+- **Agentic RAG:** Exploring retrieval and iterative information gathering.
+- **Embeddings and vector search:** Finding relevant information from documents.
+- **LLM integration:** Working with local and hosted model APIs.
 
-### Key Areas
+**Areas I want to improve**
 
-- **Multi-Agent Architecture:** Organizing information-processing tasks into specialized agent workflows.
-- **LangGraph:** Orchestrating stateful workflows and agent execution.
-- **LangChain:** Integrating language models, prompts, tools, and retrieval components.
-- **Agentic RAG:** Exploring retrieval workflows that can support iterative information gathering and context-aware responses.
-- **Knowledge Retrieval:** Working with embeddings, document retrieval, and vector databases.
-- **LLM Integration:** Exploring local and hosted language models for AI application development.
-- **Responsible AI:** Emphasizing trustworthy information and appropriate medical guidance.
+- Retrieval quality and relevance.
+- Response grounding in available source material.
+- Testing edge cases and unsupported queries.
+- Measuring the quality and consistency of model responses.
+- Making the system's limitations clear to users.
 
-### Technology Stack
+**Repository:** Add the actual public project URL when available.
 
-`Python` · `LangChain` · `LangGraph` · `LLMs` · `Agentic RAG` · `Embeddings` · `Vector Search`
-
-**Project repository:** Add the public repository URL here when available.
-
-> This project is intended for informational and research purposes and does not replace professional medical advice.
+> This is an informational software project, not a clinical diagnostic tool or a substitute for professional medical advice.
 
 ---
 
-## 🧠 AI Engineering & LLM Technologies
+## 🧠 AI & LLM Engineering
+
+I work with language models as part of application development, with a focus on connecting models to data, APIs, and structured workflows.
 
 <div align="center">
-
-### Frameworks & Data Science
 
 <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch"/>
 
@@ -125,67 +134,59 @@ An AI project focused on providing users with relevant medicine-related informat
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-### LLM Providers & Local Inference
-
-<a href="https://ollama.com/">
-<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=for-the-badge" alt="Ollama"/>
-</a>
-<a href="https://groq.com/">
-<img src="https://img.shields.io/badge/Groq-LLM%20API-F55036?style=for-the-badge" alt="Groq"/>
-</a>
-<a href="https://platform.openai.com/">
-<img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
-</a>
-<a href="https://www.anthropic.com/">
-<img src="https://img.shields.io/badge/Anthropic-Claude%20API-D97757?style=for-the-badge" alt="Anthropic API"/>
-</a>
-<a href="https://huggingface.co/TalhaRehman-KHT">
-<img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Datasets-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face models and datasets"/>
-</a>
-
 </div>
 
 ### Areas of Practice
 
-- **LLM Application Development:** Connecting language models to real-world applications.
-- **Agentic AI:** Designing tool-using agents and stateful multi-step workflows.
-- **RAG & Agentic RAG:** Retrieval pipelines, semantic search, context construction, and iterative retrieval approaches.
-- **Embeddings & Vector Databases:** Exploring vector representations and knowledge retrieval.
-- **Local LLMs:** Running and experimenting with models locally using Ollama.
-- **Model APIs:** Integrating Groq, OpenAI, and Anthropic APIs into AI workflows.
-- **Model Adaptation:** Exploring fine-tuning methods and parameter-efficient techniques.
-- **Evaluation:** Comparing model responses, testing retrieval quality, and assessing AI application performance.
+- LLM application development and API integration.
+- Multi-agent workflow orchestration.
+- Retrieval-augmented generation and semantic search.
+- Embeddings and vector database concepts.
+- Local model experimentation with Ollama.
+- Model-provider integrations and prompt design.
+- Exploring fine-tuning and parameter-efficient adaptation methods.
+- Testing response quality and retrieval behavior.
+
+### Models & AI Services
+
+<div align="center">
+
+<a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-Local%20Models-111111?style=for-the-badge" alt="Ollama"/></a>
+<a href="https://groq.com/"><img src="https://img.shields.io/badge/Groq-LLM%20API-F55036?style=for-the-badge" alt="Groq"/></a>
+<a href="https://platform.openai.com/"><img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/></a>
+<a href="https://huggingface.co/TalhaRehman-KHT"><img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Datasets-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+
+</div>
 
 ---
 
 ## 📊 Model Evaluation & Experimentation
 
-I am interested in systematically evaluating AI systems rather than relying only on individual example responses.
+A working AI application needs more than a response that sounds convincing. I want to understand how well its retrieval, model outputs, and overall workflow perform under different conditions.
 
-My evaluation workflow focuses on:
+My evaluation interests include:
 
-- Comparing different LLMs on the same set of test questions.
-- Assessing answer relevance, correctness, and consistency.
-- Examining retrieved context and the quality of RAG responses.
-- Testing agent workflows, tool calls, and failure cases.
-- Using model evaluation workbenches and experiment-based comparisons where applicable.
-- Tracking evaluation results to guide prompt, retrieval, and model improvements.
+- Comparing models using the same set of questions.
+- Checking answer relevance and factual consistency.
+- Inspecting retrieved documents and context quality.
+- Testing tool calls and multi-agent workflow behavior.
+- Identifying common failure cases.
+- Using evaluation results to guide improvements.
 
-**Evaluation areas:** LLM benchmarking · RAG evaluation · Model comparison · Test datasets · Response quality · Error analysis
+I'm particularly interested in applying systematic evaluation to healthcare-related RAG and multi-agent systems, where unsupported information can have serious consequences.
 
 ---
 
 ## ⚙️ Automation & API Integration
 
-I also work with workflow automation and API-driven applications.
+I also work with workflow automation and API-driven applications. I use these technologies to connect services, move information between systems, and reduce repetitive manual work.
 
-- **n8n Automation:** Designing workflows that connect applications, APIs, databases, and AI services.
-- **REST APIs:** Integrating external services and building backend endpoints.
-- **OpenAI API:** Using language model APIs in application and automation workflows.
-- **LLM Workflow Integration:** Connecting model calls to application logic and automated processes.
-- **Webhooks:** Triggering workflows in response to application events.
-- **Email Automation:** Exploring AI-assisted email generation and scheduled follow-ups.
-- **Backend Integration:** Connecting frontend applications, databases, and AI services.
+- **n8n:** Workflow automation and service integration.
+- **REST APIs:** Connecting frontend applications, backend services, and external providers.
+- **OpenAI API:** Integrating language model capabilities into applications and workflows.
+- **Webhooks:** Triggering automated actions in response to events.
+- **Email automation:** Connecting application events with email workflows.
+- **Backend integration:** Working with APIs, databases, and AI services.
 
 <div align="center">
 
@@ -199,7 +200,7 @@ I also work with workflow automation and API-driven applications.
 
 ## 🌐 Full-Stack Development
 
-I bring software engineering experience to AI projects, from backend APIs to frontend interfaces and deployment.
+My software development background helps me build complete applications rather than focusing on the AI component alone. I work with frontend interfaces, backend logic, databases, and external services.
 
 <div align="center">
 
@@ -217,103 +218,99 @@ I bring software engineering experience to AI projects, from backend APIs to fro
 
 </div>
 
-**Core competencies:** Full-Stack Development · REST API Design · Authentication · Database Design · Debugging · Deployment · Production Support
+**Core areas:** Full-Stack Development · REST API Development · Authentication · Database Integration · Debugging · Deployment
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Other Projects
 
-### 💊 AI-Integrated Pharmacy Management System
+### 💊 Pharmacy Store Management System
 
-- Developed pharmacy inventory and stock-management workflows.
-- Implemented medicine expiry tracking and restocking reminders.
-- Integrated Gemini API-powered medicine-related features.
-- Explored alternative-medicine recommendations, price prediction, and prescription guidance.
-- Technologies: React, Flutter, Supabase, PostgreSQL, Gemini API.
+A pharmacy management application combining inventory workflows with medicine-related features.
+
+- Medicine inventory and batch management.
+- Expiry tracking and restocking reminders.
+- Medicine information and prescription-related workflows.
+- Exploration of AI-powered medicine information features.
+
+**Technologies:** React, Supabase, PostgreSQL, Gemini API, and backend services.
 
 ### 🍽️ Zaiqa — Taste-Based Restaurant Discovery
 
-- Built a restaurant recommendation platform using user taste preferences.
-- Implemented cosine-similarity-based matching.
-- Integrated PostGIS for geospatial queries and location-aware discovery.
-- Technologies: React, Vite, Tailwind CSS, Supabase, MongoDB Atlas.
+A restaurant discovery project that uses user preferences to find relevant options.
 
-### 🤖 JobHunting — AI-Automated Job Application Tracker
+- Taste-based recommendation logic.
+- Cosine similarity for matching preferences.
+- PostGIS for location-aware queries.
+- Integration of frontend and database services.
 
-- Built an application-tracking system using the MERN stack.
-- Connected application events to n8n through webhooks.
-- Integrated Gemini-powered email drafting and SMTP delivery.
-- Designed scheduled follow-up reminder workflows.
+**Technologies:** React, Vite, Tailwind CSS, Supabase, MongoDB Atlas.
+
+### 🤖 JobHunting — Job Application Tracker
+
+A job application tracking project built around application management and automated follow-ups.
+
+- Tracking job applications.
+- Connecting events to n8n using webhooks.
+- Exploring AI-assisted email drafting.
+- Automating follow-up reminders.
+
+**Technologies:** MERN stack, n8n, Gemini API, SMTP.
 
 ### 💬 QuickGPT
 
-An AI chatbot interface demonstrating LLM API integration and frontend application development.
+An AI chatbot interface focused on frontend development and language model API integration.
 
 ### 🛒 Shop-It
 
-A MERN-based e-commerce application with authentication, product catalog, and shopping workflows.
+A MERN-based e-commerce application covering product listings, authentication, and shopping workflows.
 
 ---
 
-## 🧭 How I Work
+## 🛠️ My Development Approach
 
-<div align="center">
+I prefer to understand the problem before choosing how to implement it. Once the requirements are clear, I break the work into smaller tasks and test each part as it comes together.
 
-<img src="https://img.shields.io/badge/My%20Workflow-Plan%20%7C%20Build%20%7C%20Test%20%7C%20Deploy-0057B8?style=for-the-badge" alt="Development workflow"/>
+My usual approach is to:
 
-</div>
+1. Understand the problem and define what the application needs to do.
+2. Break the requirements into manageable tasks.
+3. Choose an implementation that fits the project.
+4. Build and test features incrementally.
+5. Check integration behavior and important edge cases.
+6. Deploy the application and verify the result.
+7. Improve the implementation based on issues and feedback.
 
-I follow a structured, iterative process throughout a project's lifecycle, from the initial discussion to long-term support.
-
-### 01 — Understand the Problem
-
-I first understand the actual business need, clarify the goals, and identify important constraints before writing code.
-
-### 02 — Draft the Requirements
-
-I translate the problem into a clear objective and documented requirements, divided into manageable tasks.
-
-### 03 — Confirm the Plan
-
-I review the proposed requirements and implementation plan with the client or team to establish agreement before development.
-
-### 04 — Build in Small Changes
-
-I implement features in small, reviewable increments so progress remains visible and changes are easier to manage.
-
-### 05 — Test It
-
-I test each change, including edge cases, API contracts, integration behavior, and important user workflows.
-
-### 06 — Deploy
-
-I deploy tested changes and verify that the application behaves as expected in the production environment.
-
-### 07 — Own and Maintain
-
-I remain focused on the quality of delivered work, including troubleshooting, maintenance, monitoring, and ongoing improvements.
-
-<div align="center">
-
-**Understand → Plan → Build → Test → Deploy → Maintain**
-
-</div>
+I try to keep the code understandable and the development process practical. For AI projects, I also want to understand why a system produces a particular result and where it might fail.
 
 ---
 
-## 🎓 Education & Academic Goals
+## 🎓 Education
 
-<div align="center">
+**Bachelor of Science in Computer Science (BSCS)**  
+Kohat University of Science and Technology (KUST), Pakistan
 
-### Bachelor of Science in Computer Science
+**CGPA:** 3.23 / 4.00
 
-**Kohat University of Science and Technology (KUST)**
+### Academic Goals
 
-CGPA: 3.20 / 4.00
+I'm interested in pursuing a research-oriented master's degree in Computer Science or Artificial Intelligence.
 
-**Academic direction:** MS in Computer Science / Artificial Intelligence, with interests in AI research, LLMs, multi-agent systems, and intelligent applications.
+My preferred research direction is AI for Healthcare, especially computer vision and medical image analysis, alongside Agentic RAG and multi-agent systems for healthcare information retrieval.
 
-</div>
+I want to strengthen my theoretical foundations, gain more experience with research methodology, and learn to design experiments that produce measurable and reproducible results.
+
+---
+
+## 🌱 Current Learning Goals
+
+- Strengthen machine learning and deep learning fundamentals.
+- Study computer vision techniques for medical image analysis.
+- Improve practical experience with PyTorch.
+- Experiment with healthcare-related retrieval systems.
+- Develop and evaluate multi-agent workflows.
+- Learn more about model adaptation and fine-tuning.
+- Improve experimental design and reproducibility.
 
 ---
 
@@ -333,44 +330,23 @@ CGPA: 3.20 / 4.00
 
 ---
 
-## 🌱 Current Learning Goals
-
-- Strengthen machine learning and deep learning fundamentals.
-- Explore Agentic RAG and advanced retrieval strategies.
-- Develop and evaluate multi-agent AI workflows.
-- Experiment with LLM fine-tuning and model adaptation.
-- Improve model benchmarking and evaluation practices.
-- Develop reproducible, research-oriented AI experiments.
-- Prepare for graduate studies and research opportunities in Computer Science and AI.
-
----
-
 ## 🤝 Let's Connect
+
+I'm happy to connect with developers, AI researchers, students, and research groups working on computer vision, healthcare AI, language models, and intelligent systems.
 
 <div align="center">
 
-I'm interested in connecting with AI researchers, developers, and graduate students working on intelligent systems, LLM applications, multi-agent architectures, and machine learning.
+<a href="https://github.com/TalhaRehman-KHT"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://huggingface.co/TalhaRehman-KHT"><img src="https://img.shields.io/badge/Hugging%20Face-My%20Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face profile"/></a>
 
-<a href="https://huggingface.co/TalhaRehman-KHT">
-<img src="https://img.shields.io/badge/Hugging%20Face-Explore%20My%20Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face profile"/>
-</a>
-
-<a href="https://www.linkedin.com/in/talha-rehman-460014218">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://talha-five.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="mailto:talharehmankht@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://www.linkedin.com/in/talha-rehman-460014218"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://talha-five.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:talharehmankht@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0057B8,100:00D4FF&height=120&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0057B8,100:00D4FF&height=120&section=footer" width="100%" alt="Footer"/>
 
-**Building useful software. Exploring intelligent systems. Learning through experimentation.**
+**Building useful software, exploring AI, and learning through practical work.**
 
 </div>
